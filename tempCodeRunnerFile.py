@@ -1,0 +1,2 @@
+    input_file_path = "C:/Users/acer/Downloads/duplikat/Gabungan.bib"  # Ganti dengan nama file .bib yang sesuai
+    output_file_path = "C:/Users/acer/Downloads/duplikat/hapus.bib"  # Ganti dengan nama file .bib yang sesuai
